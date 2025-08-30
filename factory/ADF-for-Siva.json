@@ -1,0 +1,9 @@
+{
+	"name": "ADF-for-Siva",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1984f311-0cc8-4fd9-a0ff-c0f732f9cd72",
+		"tenantId": "1c82c21a-e1b5-4404-84bc-65a0befb2cf2"
+	}
+}
